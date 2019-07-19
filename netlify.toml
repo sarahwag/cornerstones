@@ -8,7 +8,7 @@
 	HUGO_VERSION = "0.55.6"
 
 [[redirects]]
-	from = "https://sjmd-course-barkslikeadogma.netlify.com/*"
-	to = "https://barkslikeadogma.course.sjmd.space/:splat"
+	from = "https://sjmd-course-cornerstones.netlify.com/*"
+	to = "https://cornerstones.course.sjmd.space/:splat"
 	status = 301
 	force = true #COMMENT: ensure that we always redirect
