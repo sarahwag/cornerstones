@@ -1,7 +1,7 @@
 ---
 title: "Ayishat's Take"
 weight: 2
-discourse: "https://community.sjmd.space/t/the-problem-with-wokeness"
+# discourse: "https://community.sjmd.space/t/the-problem-with-wokeness"
 ---
 
 Watch this video for Ayishat Akanbi's take on the problem(s) with wokeness:

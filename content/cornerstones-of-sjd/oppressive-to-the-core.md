@@ -1,7 +1,7 @@
 ---
 title: "Oppressive to the Core"
 weight: 5
-discourse: "https://community.sjmd.space/t/sjd-cornerstone-oppressive-to-the-core/"
+# discourse: "https://community.sjmd.space/t/sjd-cornerstone-oppressive-to-the-core/"
 ---
 
 The third cornerstone that we've heard from people so far focuses on the histories of systems and institutions.
@@ -18,5 +18,3 @@ And, more importantly, once you recognize this truth of historical oppression, t
 1. Blow it up.
 
 What systems and institutions might we be talking about? We've seen this cornerstone applied to everything from universities and non-profits, to government branches, to policy platforms, even to big ideas like democracy.
-
-<center>_Weigh in on this cornerstone in the community_</center>

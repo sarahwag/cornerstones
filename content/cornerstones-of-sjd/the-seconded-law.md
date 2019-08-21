@@ -1,7 +1,7 @@
 ---
 title: "The Seconded Law"
 weight: 3
-discourse: "https://community.sjmd.space/t/sjd-cornerstone-the-seconded-law"
+# discourse: "https://community.sjmd.space/t/sjd-cornerstone-the-seconded-law"
 ---
 
 [The Second Law of Thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics) "states that the total entropy of an isolated system can never decrease over time."
@@ -15,5 +15,3 @@ If someone says, "**Z** is oppressive," how might you reply?
 "Yep! **Z** is totally oppressive because..." 👈 law-abiding
 
 "Actually, no, **Z** isn't oppressive, because..." 👈 outlawed
-
-<center>_Weigh in on this cornerstone in the community_</center>

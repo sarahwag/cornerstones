@@ -1,7 +1,7 @@
 ---
 title: "The High Ground"
 weight: 2
-discourse: "https://community.sjmd.space/t/the-high-ground"
+# discourse: "https://community.sjmd.space/t/the-high-ground"
 
 ---
 
@@ -13,4 +13,6 @@ He continues:
 
 >"There are a couple of simple terms you use, and it allows you to be on the vanguard of history, morally righteous, and super smart very easily. Without any actual thought."
 
-**What do you think? Does this explain some of the spread of SJD to you? Give a glimpse into why so many people advance our particular form of fundamentalism?**
+```
+Talk through this with someone (or your journal): What do you think about what Yascha said? Does this explain some of the spread of SJD to you? Give a glimpse into why so many people advance our particular form of fundamentalism? What does it not explain? What about his summary concerns you, or do you think is unhelpful?
+```

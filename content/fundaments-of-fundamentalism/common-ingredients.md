@@ -1,7 +1,7 @@
 ---
 title: "Common Ingredients"
 weight: 2
-discourse: "https://community.sjmd.space/t/common-ingredients-to-fundamentalism"
+# discourse: "https://community.sjmd.space/t/common-ingredients-to-fundamentalism"
 ---
 
 You've all pointed out several times that SJD is not a unique phenomenon -- it's just a unique flavor.
@@ -14,4 +14,4 @@ Here's a quote from the abstract:
 
 >"[M]ost 'fundamentalisms' involve special forms of identity politics, meaning, and labeling, characterized by a quest for certainty, exclusiveness, and unambiguous boundaries, where the "Other" is the enemy demonized."
 
-That sounds familiar to us. **What do you think? In what ways are those aspects of fundamentalism reflected in SJD?**
+That sounds familiar to us.

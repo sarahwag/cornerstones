@@ -1,7 +1,7 @@
 ---
 title: "Wall of SJD"
 weight: 3
-discourse: "https://community.sjmd.space/t/wall-of-sjd"
+# discourse: "https://community.sjmd.space/t/wall-of-sjd"
 ---
 
 Every SJD tenet can serve as a brick that we place between the cornerstones in our wall. All of the dynamics of fundamentalism are the mortar that bind the bricks together, and reinforce our wall.

@@ -5,7 +5,7 @@ weight: 2
 
 We have three candidates for SJD cornerstones for your consideration. They're the next three steps of this topic.
 
-Please don't receive them as decree. As you read through and consider them, ask yourself:
+Please don't receive them as decree. As you read through and consider them, ask yourself and those in your community:
 
 1. Is this something I've noticed supporting SJD activism (even if in background, or "between the lines")?
 2. Does this make sense as a foundational belief upon which other aspects of SJD can be built?

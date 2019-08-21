@@ -1,7 +1,7 @@
 ---
 title: "Shoot the Messenger"
 weight: 4
-discourse: "https://community.sjmd.space/t/sjd-cornerstone-shoot-the-messenger"
+# discourse: "https://community.sjmd.space/t/sjd-cornerstone-shoot-the-messenger"
 ---
 
 This cornerstone is all about how we view the people sharing ideas, perspectives, and criticisms. Within an SJD context:
@@ -13,6 +13,4 @@ Point 1 enables us to hear the same thing from two different people (different b
 
 Point 2 moves our focus away from situations and systems -- ignoring the societal forces at work -- and onto the individual person being affected by them, the byproduct of those forces.
 
-<small><strong>Feelings check-in:</strong> If either of the above points feels paradoxical to the goals of social justice, or these cornerstones in general do, like we're rubbing against other important values, keep feeling that. We'll get to it soon.</small>
-
-<center>_Weigh in on this cornerstone in the community_</center>
+<small><strong>Feelings check-in:</strong> If either of the above points feels paradoxical to the goals of social justice, or these cornerstones in general do, like we're rubbing against other important values, keep feeling that. And you're invited to journal about it. We'll get to it soon.</small>

@@ -1,7 +1,7 @@
 ---
 title: "The End of War"
 weight: 2
-discourse: "https://community.sjmd.space/t/the-end-of-war"
+# discourse: "https://community.sjmd.space/t/the-end-of-war"
 ---
 
 Which brings us to "Is war inevitable? Is a war mentality necessary to fix the problems of the world?"
