@@ -7,6 +7,6 @@ Most of the people adhering to the cornerstones of SJD probably couldn't name th
 
 Which brings us to this question: what does fundamentalism, or social justice dogma, _give you_? What does it provide?
 
-Listen to Yascha Mounk talk about the benefits of creed and dogma on the _Making Sense_ podcast **starting at the 1:15:43 mark, ending at 1:18:03**:
+Listen to Yascha Mounk talk about the benefits of creed and dogma on the _Making Sense_ podcast **starting at the 1:15:43 mark, ending at 1:18:03**:  FYI, the link below goes to a podcast episode called 'The Revenge of History', which only goes for 57:20, so I'm guessing that's the wrong episode
 
 - {{% icon listen %}} ["What does fundamentalism give you?" / Yascha Mounk](https://lnns.co/greBjZY274V/4543)
